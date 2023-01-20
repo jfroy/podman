@@ -15,7 +15,7 @@ require (
 	github.com/containers/common v0.47.4
 	github.com/containers/conmon v2.0.20+incompatible
 	github.com/containers/image/v5 v5.19.1
-	github.com/containers/ocicrypt v1.1.2
+	github.com/containers/ocicrypt v1.1.7
 	github.com/containers/psgo v1.7.2
 	github.com/containers/storage v1.38.2
 	github.com/coreos/go-systemd/v22 v22.3.2
@@ -70,7 +70,7 @@ require (
 	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9
 	golang.org/x/text v0.3.7
 	google.golang.org/protobuf v1.27.1
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 	k8s.io/api v0.22.4
 	k8s.io/apimachinery v0.22.4
 )
